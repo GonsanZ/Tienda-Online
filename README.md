@@ -4,3 +4,4 @@
 * MVC
 * MySQL
 * HTML, CSS
+* JavaScript
