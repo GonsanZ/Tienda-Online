@@ -1,2 +1,6 @@
-# Tienda-Online
-#PHP #MYSQL #HTML #CSS #JS
+### Tienda-Online:
+
+* PHP
+* MVC
+* MySQL
+* HTML, CSS
